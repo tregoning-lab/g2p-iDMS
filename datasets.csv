@@ -1,5 +1,0 @@
-key,antibody,antigen,source,format,wt_kd_M,relabel
-nirsevimab_rsv_a,Nirsevimab,RSV-A F,data/source/rsv_a_kd_fc.csv,long,2.0e-9,
-nirsevimab_rsv_b,Nirsevimab,RSV-B F,data/source/rsv_b_kd_fc.csv,long,1.5e-9,S197=N197
-casirivimab_sars2_delta,Casirivimab,SARS-CoV-2 Delta RBD,data/source/sars2_delta_kd.csv,grid,6.5e-9,
-clesrovimab_rsv,RB1 (Clesrovimab),RSV F,data/source/clesrovimab_rsv_kd.csv,long_log,3.3e-9,
