@@ -27,7 +27,7 @@ Colour is a blue-white-red diverging scale on a log axis, centred on wild type: 
 
 ## How to cite
 
-If you use this data or code, please cite:
+If you use this data, please cite:
 
 > Mosscrop, L., Gerardi, V., Spearing, E., Kose, S., Talts, T., Thomas, C.,
 > Rees-Spear, C., Paschos, K., Brown, J., Williams, T., Skinner, M.,
