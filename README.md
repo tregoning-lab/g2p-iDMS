@@ -36,11 +36,6 @@ If you use this data, please cite:
 > predict and characterise new RSV F site zero escape mutants. Preprint.
 > doi:[10.21203/rs.3.rs-7884592/v1](https://doi.org/10.21203/rs.3.rs-7884592/v1)
 
-## Licence
-
-[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
-You may share and adapt the data, figures and code for any purpose, provided you give appropriate credit and cite the work above.
-
 
 ****
 
