@@ -25,8 +25,22 @@ Colour is a blue-white-red diverging scale on a log axis, centred on wild type: 
 | RB1 (Clesrovimab) | RSV F | n/a | 23 | 437 | 3.3 |
 | Casirivimab | SARS-CoV-2 RBD | Delta | 23 | 437 | 6.5 |
 
-## References
-**Mosscrop, L., Gerardi, V., Spearing, E., Kose, S., Talts, T., Thomas, C., Rees-Spear, C., Paschos, K., Brown, J., Williams, T., Skinner, M., de Lusignan, S., Zambon, M., Bravi, B. and Tregoning, J.** (2026). An integrated in silico and in vitro genotype to phenotype pipeline to predict and characterise new RSV F site zero escape mutants. [PRE PRINT] doi:10.21203/rs.3.rs-7884592/v1.
+## How to cite
+
+If you use this data or code, please cite:
+
+> Mosscrop, L., Gerardi, V., Spearing, E., Kose, S., Talts, T., Thomas, C.,
+> Rees-Spear, C., Paschos, K., Brown, J., Williams, T., Skinner, M.,
+> de Lusignan, S., Zambon, M., Bravi, B. and Tregoning, J. (2026).
+> An integrated in silico and in vitro genotype to phenotype pipeline to
+> predict and characterise new RSV F site zero escape mutants. Preprint.
+> doi:[10.21203/rs.3.rs-7884592/v1](https://doi.org/10.21203/rs.3.rs-7884592/v1)
+
+## Licence
+
+[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+— you may share and adapt the data, figures and code for any purpose, provided you give appropriate credit and cite the work above.
+
 
 ****
 
