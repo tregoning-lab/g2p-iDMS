@@ -1,6 +1,76 @@
-## How to cite
-
-If you use this data or code, please cite:
-
-[Mosscrop, L., Gerardi, V., Spearing, E., Kose, S., Talts, T., Thomas, C., Rees-Spear, C., Paschos, K., Brown, J., Williams, T., Skinner, M., de Lusignan, S., Zambon, M., Bravi, B. and Tregoning, J.] (2026). [An integrated in silico and in vitro genotype to phenotype pipeline to predict and characterise new RSV F site zero escape mutants]. [Preprint], doi:10.21203/rs.3.rs-7884592/v1
-
+cff-version: 1.2.0
+message: "If you use this data or code, please cite the preprint below."
+type: dataset
+license: CC-BY-4.0
+repository-code: "https://github.com/tregoning-lab/g2p-iDMS"
+authors:
+  - family-names: Mosscrop
+    given-names: L.
+  - family-names: Gerardi
+    given-names: V.
+  - family-names: Spearing
+    given-names: E.
+  - family-names: Kose
+    given-names: S.
+  - family-names: Talts
+    given-names: T.
+  - family-names: Thomas
+    given-names: C.
+  - family-names: Rees-Spear
+    given-names: C.
+  - family-names: Paschos
+    given-names: K.
+  - family-names: Brown
+    given-names: J.
+  - family-names: Williams
+    given-names: T.
+  - family-names: Skinner
+    given-names: M.
+  - family-names: de Lusignan
+    given-names: S.
+  - family-names: Zambon
+    given-names: M.
+  - family-names: Bravi
+    given-names: B.
+  - family-names: Tregoning
+    given-names: J.
+preferred-citation:
+  type: article
+  title: >-
+    An integrated in silico and in vitro genotype to phenotype pipeline to
+    predict and characterise new RSV F site zero escape mutants
+  year: 2026
+  journal: "Research Square"
+  doi: "10.21203/rs.3.rs-7884592/v1"
+  notes: Preprint
+  authors:
+    - family-names: Mosscrop
+      given-names: L.
+    - family-names: Gerardi
+      given-names: V.
+    - family-names: Spearing
+      given-names: E.
+    - family-names: Kose
+      given-names: S.
+    - family-names: Talts
+      given-names: T.
+    - family-names: Thomas
+      given-names: C.
+    - family-names: Rees-Spear
+      given-names: C.
+    - family-names: Paschos
+      given-names: K.
+    - family-names: Brown
+      given-names: J.
+    - family-names: Williams
+      given-names: T.
+    - family-names: Skinner
+      given-names: M.
+    - family-names: de Lusignan
+      given-names: S.
+    - family-names: Zambon
+      given-names: M.
+    - family-names: Bravi
+      given-names: B.
+    - family-names: Tregoning
+      given-names: J.
